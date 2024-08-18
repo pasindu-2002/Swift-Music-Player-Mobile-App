@@ -21,8 +21,5 @@ To get started with the Neumorphic Music Player App, clone this repository to yo
 ## Contributions
 Contributions to the Neumorphic Music Player App are welcome! Whether it's bug fixes, feature enhancements, or UI improvements, feel free to fork this repository, make your changes, and submit a pull request. Let's collaborate to create a seamless and delightful music listening experience for users worldwide.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 Special thanks to the SwiftUI and iOS development community for their valuable insights, tutorials, and contributions to the ecosystem.
