@@ -2,7 +2,7 @@
 ![Shots create mockups (1)](https://github.com/SwiftieDev/SwiftUI-Music-Player/assets/156214801/a2584f09-4fcd-475c-b3a4-320e02b8edb4)
 
 ## Overview
-The Neumorphic Music Player App is a sleek and stylish music player built using SwiftUI, integrating AVKit for seamless audio playback. Featuring a modern neumorphic design aesthetic, this app offers users an immersive audio experience with intuitive controls and elegant visuals. Whether you're listening to your favorite tracks or discovering new music, the Neumorphic Music Player App delivers a delightful user experience for music enthusiasts.
+The Music Player App is a sleek and stylish music player built using SwiftUI, integrating AVKit for seamless audio playback. Featuring a modern neumorphic design aesthetic, this app offers users an immersive audio experience with intuitive controls and elegant visuals. Whether you're listening to your favorite tracks or discovering new music, the Neumorphic Music Player App delivers a delightful user experience for music enthusiasts.
 
 ## Features
 - **Neumorphic Design:** Embrace the latest design trend with a soft, tactile interface that blends light and shadow for a visually pleasing experience.
