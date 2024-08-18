@@ -1,4 +1,4 @@
-# Music Player iOS App UI
+# Music Player iOS App
 ![Shots create mockups (1)](https://github.com/SwiftieDev/SwiftUI-Music-Player/assets/156214801/a2584f09-4fcd-475c-b3a4-320e02b8edb4)
 
 ## Overview
